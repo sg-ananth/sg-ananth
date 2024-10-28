@@ -1,8 +1,4 @@
-- name: Home
-  link: /
-- name: About
-  link: /about/
-- name: Blog
-  link: /blog/
 - name: Freedom
-  link: /index2.html
+  link: /freedom.html
+- name: cricket
+  link: /cricket.html
